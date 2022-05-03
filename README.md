@@ -3,7 +3,4 @@ clipclap 2022 updated system to re -enable ches reward retrieval if you have an 
 
 manual:
 
-apt update && apt upgrade 
-git clone https://github.com/dariusgab/clipclap2022
-cd clipclap2022
-python2 clip.py
+apt update && apt upgrade && git clone https://github.com/dariusgab/clipclap20 && cd clipclap2022 && python2 Clip.py
