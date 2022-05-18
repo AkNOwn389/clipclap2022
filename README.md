@@ -7,4 +7,4 @@ apt update && apt upgrade && git clone https://github.com/dariusgab/clipclap20 &
 
 # ScreenShot 
 
-![Screenshot](https://github.com/dariusgab/facebook_bruteforce/raw/main/IMG_1652645174941.jpg)
+![Screenshot](https://github.com/dariusgab/clipclap2022/raw/main/Screenshot_20220519-002346.jpg)
