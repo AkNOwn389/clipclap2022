@@ -4,3 +4,7 @@ clipclap 2022 updated system to re -enable ches reward retrieval if you have an 
 # manual
 
 apt update && apt upgrade && git clone https://github.com/dariusgab/clipclap20 && cd clipclap2022 && python2 Clip.py
+
+# ScreenShot 
+
+![Screenshot](https://github.com/dariusgab/facebook_bruteforce/raw/main/IMG_1652645174941.jpg)
